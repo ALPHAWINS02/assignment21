@@ -1,0 +1,68 @@
+}
+h3 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: larger;
+}
+.portfolio-mf{
+    background-size: cover;
+    background-image: url(../img/ab5.jpg);
+
+  
+  }
+  .new{
+    margin-left: 40px;
+
+  }
+  .work-box {
+    margin-bottom: 4rem;
+    backface-visibility: hidden;
+    background-color: #fff;
+  }
+
+  .work-box:hover img {
+    transform: scale(1.3);
+  }
+  
+  .work-img {
+    display: block;
+    overflow: hidden;
+    
+  }
+  
+  .work-img img {
+    transition: all 1s;
+  }
+  
+  .work-content {
+    padding: 4rem 3% 1rem 4%;
+  }
+  
+  .work-content .w-more {
+    color: #4e4e4e;
+    font-size: .8rem;
+  }
+  
+  .work-content .w-more .w-ctegory {
+    color: #0078ff;
+  }
+  
+  .work-content .w-like {
+    font-size: 2.5rem;
+    color: #0078ff;
+    float: left;
+  }
+  
+  .work-content .w-like a {
+    color: #0078ff;
+  }
+  
+  .work-content .w-like .num-like {
+    font-size: .7rem;
+  }
+  
+  .w-title {
+    font-size: 1.2rem;
+  }
+  
+  
